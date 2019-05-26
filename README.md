@@ -17,7 +17,7 @@ Deploy a Linux VM on the host of your choice (> 14.04 for Ubuntu), or natively o
 
 Download the script by cloning this repository via git:
 
-    $ git clone https://github.com/rdp/ffmpeg-windows-build-helpers.git
+    $ git clone https://github.com/Blackinator101/ffmpeg-windows-build-helpers.git
     $ cd ffmpeg-windows-build-helpers
 
  Now run the script:
